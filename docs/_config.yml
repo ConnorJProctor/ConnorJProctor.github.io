@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Connor Proctor"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The #1 non-narcotic sleep aid - delivered to you completely free!"
+  bio    : "Azure Journeyman, Automation Lover, Continuous Process Improvement Advocate"
   links:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
